@@ -2,7 +2,11 @@
 <html>
     <head>
         <title> About Me</title>
+<<<<<<< HEAD
+        <!-- like to the main stylesheet -->
+=======
         <!-- link to main stylesheet -->
+>>>>>>> 07d2e6b35c8db8d045c881329f14d5ea77254e55
         <link rel="stylesheet" type="text/css" href="/css/main.css">
     </head>
     <body>
